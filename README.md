@@ -29,6 +29,7 @@ michael85-dev.github.io
 
 개인 프로젝트(연습중)
 가계부 for jsp
-
+https://github.com/michael85-dev/MoneyManager_p
 
 가계부 for springBoot
+https://github.com/michael85-dev/MMP_test2
