@@ -24,6 +24,9 @@ Michael의 연습 GitHub.
 
 주로 수학적인 계산식을 간편하게 하기 위해서 자체적으로 프로그래밍을 이용한 파일을 만들었습니다만 최근들어서 이런 부분을 좀더 활용해 볼 수 있지 않을까 싶어 다양한 분야로 넓혀 가고 싶다고 생각하고 있습니다.
 
+공부 정리 내용 <br>
+https://knotty-starfish-76f.notion.site/95e422816a954bfd9a4737a605405c23
+
 개인 블로그 주소 <br>
 https://michael85-dev.github.io 
 
@@ -33,3 +36,4 @@ https://michael85-dev.github.io
 
   가계부 for springBoot <br>
   https://github.com/michael85-dev/MMP_test2
+  
