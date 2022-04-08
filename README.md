@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Michael의 연습 GitHub.
 -- 프로그래밍을 처음 공부하는데 있어서 시작해본 깃 허브 입니다.
+-> Only update Java, C
 
 프로그래밍을 시작 하게 된 계기
 - 기계공학에서 C를 처음 만지기 시작해서 openFoam을 이용한 수치해석 시뮬레이션을 진행 할 때 C++을 만지게 되면서 즐거움을 알게 되었고 평소 좋아하는 수학적인 그래프 이용 및 수식 활용하는데 WolframAlpha를 이용하다가 MATLAB을 이용하게 되어 본격적으로 프로그래밍을 연습하게 되었습니다.
